@@ -10,4 +10,4 @@ Create IAM Role
 Create an EC2 instance
 SSH with MobaXterm
 Install a LMP web server on Amazon Linux2
-Upload your codes
+Upload your codes. 
